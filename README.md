@@ -1,6 +1,11 @@
-# GPT4All-on-CPU-Only
+# GPT4All-on-CPU-Only Using LangChain
 
 This project focuses on deploying and utilizing the GPT4All model on a CPU-only computer, such as a MacBook Pro, without the need for a GPU. GPT4All is a locally running, privacy-aware chatbot that does not require internet connectivity or a GPU. It is part of the Nomic AI ecosystem, which enables individuals and organizations to train and deploy customized large language models on consumer-grade CPUs.
+
+## LanChain Framework
+LangChain is a powerful framework for building applications powered by language models. It offers data-awareness and agentic capabilities, allowing language models to interact with external data sources and their environment. With LangChain, developers can easily connect language models to their applications and create intelligent, data-driven solutions.
+
+The framework provides modular components that abstract the complexities of working with language models. These components are easy to use and can be customized to fit specific needs. Additionally, LangChain offers pre-built chains, which are ready-made sequences of components designed for specific tasks. These off-the-shelf chains make it easy to get started and accelerate development.
 
 ## Installation and Setup
 To get started with GPT4All on your CPU-only computer, follow these steps:
@@ -37,3 +42,15 @@ Perform a similarity search, also known as semantic search, on the vector databa
 
 Step 6: Interact with GPT4All using Langchain
 Feed the question and the context to GPT4All using
+## Demo
+### Text Generation
+![image](https://github.com/YaqoobD/GPT4All-on-CPU-Only/assets/52135942/4b88a2fa-f36d-48f5-b1b1-b45c98b2c1fb)
+
+![image](https://github.com/YaqoobD/GPT4All-on-CPU-Only/assets/52135942/0f2c4fce-ca5a-4d0f-b128-e55b1a21346b)
+
+### Text Generation Using LangChain Framework
+
+![image](https://github.com/YaqoobD/GPT4All-on-CPU-Only/assets/52135942/84082722-8b0f-4d3f-af35-023b1c344cb5)
+
+![image](https://github.com/YaqoobD/GPT4All-on-CPU-Only/assets/52135942/c77bbbc7-cbd8-4f2e-b6cd-b90ef73d5980)
+
